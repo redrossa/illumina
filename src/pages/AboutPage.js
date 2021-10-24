@@ -5,7 +5,7 @@ export default function AboutPage() {
       <div className="page" id="about">
         <h1>About Illumina</h1>
         <p>
-          This project was built by Reno Raksi, Minyi Lin, Richard Hu, and Zach Shumway for the UW-Madison
+          This project was developed by Reno Raksi, Minyi Lin, Richard Hu, and Zach Shumway for the UW-Madison
           Cheesehacks 2021. After several hours brainstorming what to do, changing ideas, and redoing work,
           even working on two ideas simultaneously, we finally arrived at this masterpiece.
         </p>
