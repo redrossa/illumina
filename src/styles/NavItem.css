@@ -1,0 +1,13 @@
+.nav-item a {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 18px 26px;
+}
+
+.nav-item a:hover, .active {
+  border-bottom-width: 1px;
+  border-bottom-color: white;
+  border-bottom-style: solid;
+}
